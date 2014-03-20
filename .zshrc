@@ -17,6 +17,7 @@ alias l=ls
 alias v=vim
 alias c=clear
 alias t=tree
+alias _c='sudo chef-client'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
