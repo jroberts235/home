@@ -19,6 +19,8 @@ alias v=vim
 alias c=clear
 alias t=tree
 alias _c='sudo chef-client'
+alias _mc='sudo mv /usr/bin/chef-client /usr/bin/chef-client.jr'
+alias _cm='sudo mv /usr/bin/chef-client.jr /usr/bin/chef-client'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
