@@ -18,6 +18,7 @@ alias l=ls
 alias v=vim
 alias c=clear
 alias t=tree
+alias _s='source ~/.zshrc'
 alias _c='sudo chef-client'
 alias _mc='sudo mv /usr/bin/chef-client /usr/bin/chef-client.jr;ls -la /usr/bin/chef-client*;sudo killall chef-client'
 alias _cm='sudo mv /usr/bin/chef-client.jr /usr/bin/chef-client;ls -la /usr/bin/chef-client*;sudo service chef-client start'
